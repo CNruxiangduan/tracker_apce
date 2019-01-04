@@ -1,4 +1,4 @@
-# Tracker_APCE
+## KCF Tracker With APCE
 This project implement an object tracking algorithm.Combining KCF with APCE strategy.
 
 ### Usage:
