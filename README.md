@@ -1,6 +1,6 @@
 # Tracker_APCE
-## usage
-### 1:download code
-### 2:mkdir src and put all of *.cpp files into src floder
-### 3:mkdir build
-### 4:cd ./build and cmake ..
+### usage
+This project implement an object tracking algorithm.Combining KCF with APCE Strategy.
+1. download project code
+2. mkdir build
+3. cd ./build and cmake ..
